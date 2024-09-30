@@ -20,3 +20,23 @@ This is a Content Management System (CMS) built using the Laravel framework. It 
 - Laravel 10
 - MySQL or another supported database
 
+
+## Installation Preview
+![Installation Preview](./preview/preview_install.png)
+
+## Login System
+![Login System](./preview/login_system.png)
+
+## Register System
+![Register System](./preview/register_system.png)
+
+## Create Product
+![Create Product](./preview/produkt_erstellen.png)
+
+## Category Creation
+![Category Creation](./preview/kategorie_erstellung.png)
+
+## Category Product Relations
+Here is an example video for the relation between categories and products:
+
+![Relation Video](./preview/relation_cate_products.mp4)
