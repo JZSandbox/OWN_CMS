@@ -2,6 +2,19 @@
 
 This is a Content Management System (CMS) built using the Laravel framework. It provides a user-friendly interface for managing website content, including categories, products, and settings for both users and companies.
 
+## Tech Stack
+
+This CMS project is built with the following technologies:
+
+- **Laravel**: As the main framework for web development, providing structure and routing.
+- **PHP**: The backend language used for handling requests and business logic.
+- **jQuery/ES6**: Used for DOM manipulation and handling AJAX requests for dynamic UI interactions.
+- **SCSS**: All styles are written in SCSS (Sassy CSS), a powerful CSS preprocessor, making the styles modular and easier to maintain.
+
+## Project Status: 🚧 60% Complete
+
+This CMS project is currently under development and approximately 60% complete. Some features are functional, but the project is still being improved and refined. Contributions and feedback are welcome!
+
 ## Main-Features
 
 - Homepage and product viewing for visitors.
