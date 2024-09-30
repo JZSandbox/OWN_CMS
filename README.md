@@ -2,6 +2,17 @@
 
 This is a Content Management System (CMS) built using the Laravel framework. It provides a user-friendly interface for managing website content, including categories, products, and settings for both users and companies.
 
+## Main-Features
+
+- Homepage and product viewing for visitors.
+- User and company registration and login.
+- Admin dashboard for managing users, products, and categories.
+- Product and category management with AJAX support for relationships.
+- Site content management (homepage, about page).
+- Over-category system for advanced categorization.
+- Secure installation process with an auth key requirement.
+- More soon
+
 ## Tech Stack
 
 This CMS project is built with the following technologies:
@@ -15,16 +26,6 @@ This CMS project is built with the following technologies:
 
 This CMS project is currently under development and approximately 60% complete. Some features are functional, but the project is still being improved and refined. Contributions and feedback are welcome!
 
-## Main-Features
-
-- Homepage and product viewing for visitors.
-- User and company registration and login.
-- Admin dashboard for managing users, products, and categories.
-- Product and category management with AJAX support for relationships.
-- Site content management (homepage, about page).
-- Over-category system for advanced categorization.
-- Secure installation process with an auth key requirement.
-- More soon
 
 ## Requirements
 
