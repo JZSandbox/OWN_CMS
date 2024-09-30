@@ -39,4 +39,4 @@ This is a Content Management System (CMS) built using the Laravel framework. It 
 ## Category Product Relations
 Here is an example video for the relation between categories and products:
 
-![Relation Video](./preview/relation_cate_products.mp4)
+![Relation Video](./preview/realtion_ship_cate_products.gif)
