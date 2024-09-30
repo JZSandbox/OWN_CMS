@@ -21,7 +21,7 @@ This is a Content Management System (CMS) built using the Laravel framework. It 
 - MySQL or another supported database
 
 
-## Installation Preview
+## Installation Preview | When the Web Site is not init.
 ![Installation Preview](./preview/preview_install.png)
 
 ## Login System
